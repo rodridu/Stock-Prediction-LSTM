@@ -1,2 +1,2 @@
 # Stock-Prediction-LSTM
-Using the LSTM Strategy to estimate the stock price of Microsoft
+Using the LSTM model to estimate the stock price of Microsoft
